@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/adi98787/SDE_sheet-challenge/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/adi98787/SDE_sheet-challenge/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/adi98787/SDE_sheet-challenge/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/adi98787/SDE_sheet-challenge/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/adi98787/SDE_sheet-challenge/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/adi98787/SDE_sheet-challenge/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
@@ -50,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adi98787/SDE_sheet-challenge/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/adi98787/SDE_sheet-challenge/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/adi98787/SDE_sheet-challenge/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/adi98787/SDE_sheet-challenge/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
