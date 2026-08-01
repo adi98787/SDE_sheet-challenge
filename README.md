@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/adi98787/SDE_sheet-challenge/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/adi98787/SDE_sheet-challenge/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/adi98787/SDE_sheet-challenge/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adi98787/SDE_sheet-challenge/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/adi98787/SDE_sheet-challenge/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/adi98787/SDE_sheet-challenge/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/adi98787/SDE_sheet-challenge/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/adi98787/SDE_sheet-challenge/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/adi98787/SDE_sheet-challenge/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/adi98787/SDE_sheet-challenge/tree/master/0410-split-array-largest-sum) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/adi98787/SDE_sheet-challenge/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
